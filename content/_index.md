@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Marquardt Lab** works at the interface of RNA Biology, Gene Expression and Epigenomics research. We are based at the [Institute of Biochemistry and Biology](https://www.uni-potsdam.de/en/ibb/), University of Potsdam, Germany.
+        The **Marquardt Lab** works at the interface of RNA Biology, Gene Expression and Epigenomics research. We are based at the Institute of Biochemistry and Biology, University of Potsdam, Germany, and the Department of Biology, Lund University, Lund, Sweden.
         
         **We are hiring!** Open positions for PhD students and Postdocs coming soon.
   
