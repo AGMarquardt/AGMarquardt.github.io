@@ -27,13 +27,7 @@ sections:
         longitude: '13.2013'
       directions: 'Department of Biology, Lund University'
       autolink: true
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          captcha: false
-    design:
+          design:
       columns: '1'
 
   - block: markdown
