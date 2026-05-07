@@ -1,9 +1,7 @@
 ---
 title: Contact
 date: 2022-10-24
-
 type: landing
-
 sections:
   - block: contact
     content:
@@ -27,9 +25,8 @@ sections:
         longitude: '13.2013'
       directions: 'Department of Biology, Lund University'
       autolink: true
-          design:
+    design:
       columns: '1'
-
   - block: markdown
     content:
       title: University of Potsdam
@@ -42,7 +39,6 @@ sections:
         D-14476 Potsdam, Germany
     design:
       columns: '1'
-
   - block: markdown
     content:
       title:
