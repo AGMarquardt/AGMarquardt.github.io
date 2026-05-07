@@ -1,5 +1,5 @@
 ---
-title: Open Position
+title: Open Position 1 (Potsdam)
 first_name: Open
 last_name: Position4
 role: PhD Student / Postdoc
