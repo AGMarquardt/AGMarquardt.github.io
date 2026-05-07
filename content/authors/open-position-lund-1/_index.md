@@ -1,5 +1,5 @@
 ---
-title: Open Position
+title: Open Position - Senior Researcher (Lund)
 first_name: Open
 last_name: Position
 role: Senior Researcher in Plant Epigenetics
