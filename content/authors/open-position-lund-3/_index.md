@@ -1,5 +1,5 @@
 ---
-title: Open Position
+title: Open Position PhD (Lund)
 first_name: Open
 last_name: Position3
 role: PhD Student
