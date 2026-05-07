@@ -9,41 +9,39 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        We welcome inquiries from prospective students, postdocs, and collaborators. Feel free to get in touch!
+      email: andreas_sebastian.marquardt@biol.lu.se
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Sölvegatan 35
+        city: Lund
+        region: ''
+        postcode: '22362'
+        country: Sweden
+        country_code: SE
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
+        latitude: '55.7119'
+        longitude: '13.2013'
+      directions: 'Department of Biology, Lund University'
       autolink: true
-    
-      # Email form provider
       form:
         provider: netlify
         formspree:
           id:
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
           captcha: false
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: University of Potsdam
+      subtitle: ''
+      text: |-
+        **Sebastian Marquardt**
+        Universität Potsdam
+        Institut für Biochemie und Biologie
+        Karl-Liebknecht-Str. 24-25, Haus 32, Raum 3.37
+        D-14476 Potsdam, Germany
     design:
       columns: '1'
 
@@ -55,7 +53,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: contact.jpg
           filters:
             brightness: 1
