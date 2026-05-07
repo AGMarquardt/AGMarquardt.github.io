@@ -36,6 +36,22 @@ sections:
     design:
       view: card
       columns: '1'
+
+  - block: collection
+    content:
+      title: Upcoming Events
+      subtitle:
+      text:
+      count: 3
+      filters:
+        folders:
+          - event
+      offset: 0
+      order: asc
+      page_type: event
+    design:
+      view: card
+      columns: '1'
   
   - block: markdown
     content:
