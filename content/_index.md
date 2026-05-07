@@ -3,19 +3,20 @@
 title:
 date: 2022-10-24
 type: landing
-
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Marquardt
+        Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Marquardt Lab** works at the interface of RNA Biology, Gene Expression and Epigenomics research. We are based at the [Institute of Biochemistry and Biology](https://www.uni-potsdam.de/en/ibb/), University of Potsdam, Germany.
+        
+        **We are hiring!** Open positions for PhD students and Postdocs coming soon.
   
   - block: collection
     content:
@@ -58,7 +59,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:
