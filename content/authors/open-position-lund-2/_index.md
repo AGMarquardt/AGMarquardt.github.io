@@ -1,5 +1,5 @@
 ---
-title: Open Position
+title: Open Position (Lund)
 first_name: Open
 last_name: Position2
 role: Senior Researcher
