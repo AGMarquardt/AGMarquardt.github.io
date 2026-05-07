@@ -10,7 +10,11 @@ sections:
       title: Contact
       text: |-
         We welcome inquiries from prospective students, postdocs, and collaborators. Feel free to get in touch!
-      email: andreas_sebastian.marquardt@biol.lu.se
+      contact_links:
+        - icon: envelope
+          icon_pack: fas
+          name: Send Email
+          link: 'mailto:andreas_sebastian.marquardt@biol.lu.se'
       address:
         street: Sölvegatan 35
         city: Lund
