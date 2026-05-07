@@ -16,7 +16,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'Marquardt Lab'
-    description: 'Research group of Prof. Sebastian Marquardt at the Institute of Biochemistry and Biology, University of Potsdam, Germany. We work at the interface of RNA Biology, Gene Expression and Epigenomics.'
+    description: description: 'The Marquardt Lab works at the interface of RNA Biology, Gene Expression and Epigenomics research. We are based at the Institute of Biochemistry and Biology, University of Potsdam, Germany, and the Department of Biology, Lund University, Lund, Sweden.'
     twitter: ''
   analytics:
     google_analytics: ''
