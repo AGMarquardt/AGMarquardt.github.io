@@ -1,6 +1,8 @@
 ---
 title: Student Research Projects
 date: 2026-05-01
+image:
+  filename: featured.png
 type: landing
 sections:
   - block: markdown
