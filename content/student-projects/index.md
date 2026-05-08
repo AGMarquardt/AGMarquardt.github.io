@@ -15,7 +15,7 @@ sections:
         Topics of the projects have **Molecular Biology** at the core.
 
         ---
-
+{{< figure src="featured.jpg" >}}
         ## B.Sc. Research Projects
 
         A common theme will be to generate targeted genomic deletions of regions of interest using two flanking gRNAs, essentially as [described here](https://bio-protocol.org/pdf/Bio-protocol3796.pdf), but with a few new tricks. This method spans several months, so B.Sc. projects could target completing the individual components of the procedure to create a targeted deletion in genomes (most likely *Arabidopsis*). This includes:
