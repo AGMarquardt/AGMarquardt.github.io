@@ -88,6 +88,19 @@ sections:
 
   - block: markdown
     content:
+      title: Funding & Support
+      subtitle: ''
+      text: |
+        We gratefully acknowledge support from our funders:
+
+        **ERC** | **Novo Nordisk Foundation** | **DFG** | **Carlsberg Foundation** | **EMBO** | **Alexander von Humboldt Foundation** | **Carl Tesdorpf Stiftelsen** | **Vetenskapsrådet** | **Danmarks Frie Forskningsfond**
+
+        {{< figure src="funding-wordcloud.png" >}}
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
       title:
       subtitle:
       text: |
