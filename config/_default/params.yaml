@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Marquardt Lab, University of Potsdam.'
+    notice: '© {year} Marquardt Lab'
     license:
       enable: true
       allow_derivatives: false
