@@ -2,7 +2,7 @@
 title: Student Research Projects
 date: 2026-05-01
 image:
-  filename: featured.png
+  filename: featured.jpg
 type: landing
 sections:
   - block: markdown
@@ -13,9 +13,9 @@ sections:
         We encourage interested B.Sc. and M.Sc. students to contact us about potential projects. Projects will be offered at our Potsdam location. We also encourage applications from elsewhere, possibly through the [Erasmus programme](https://erasmus-plus.ec.europa.eu/).
 
         Topics of the projects have **Molecular Biology** at the core.
-
+        {{< figure src="featured.jpg" >}}
         ---
-{{< figure src="featured.jpg" >}}
+
         ## B.Sc. Research Projects
 
         A common theme will be to generate targeted genomic deletions of regions of interest using two flanking gRNAs, essentially as [described here](https://bio-protocol.org/pdf/Bio-protocol3796.pdf), but with a few new tricks. This method spans several months, so B.Sc. projects could target completing the individual components of the procedure to create a targeted deletion in genomes (most likely *Arabidopsis*). This includes:
