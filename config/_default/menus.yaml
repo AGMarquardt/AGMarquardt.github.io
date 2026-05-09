@@ -20,11 +20,3 @@ main:
   - name: Contact
     url: contact
     weight: 60
-
-footer:
-  - name: Impressum
-    url: impressum
-    weight: 10
-  - name: Privacy Policy
-    url: privacy
-    weight: 20
