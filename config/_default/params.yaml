@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Marquardt Lab'
+    notice: '© {year} Marquardt Lab. | [Impressum](../impressum/) | [Privacy Policy](../privacy/)'
     license:
       enable: true
       allow_derivatives: false
