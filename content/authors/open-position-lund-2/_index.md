@@ -1,12 +1,12 @@
 ---
-title: Open Position (Lund)
+title: Open Position - Senior Researcher (Lund)
 first_name: Open
 last_name: Position2
-role: Senior Researcher
+role: Senior Researcher in RNA Biology
 organizations:
   - name: Lund University
     url: 'https://www.biology.lu.se/'
-bio: We are currently recruiting a Senior Researcher at the Department of Biology, Lund University, Sweden.
+bio: We are currently recruiting a Senior Researcher in RNA Biology at the Department of Biology, Lund University, Sweden.
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,6 +14,6 @@ social:
 user_groups:
   - Open Positions
 ---
-We are recruiting a **Senior Researcher** at the Department of Biology, Lund University, Sweden.
+We are recruiting a **Senior Researcher in RNA Biology** at the Department of Biology, Lund University, Sweden.
 
-A full job ad will be posted soon. Interested candidates are encouraged to get in touch directly.
+[View the full job ad and apply here](https://lu.varbi.com/what:job/jobID:934299/)
