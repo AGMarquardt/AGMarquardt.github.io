@@ -1,5 +1,5 @@
 ---
-title: Open Position - Senior Researcher (Lund)
+title: Open Position - Senior Researcher 2 (Lund)
 first_name: Open
 last_name: Position2
 role: Senior Researcher in RNA Biology
@@ -16,4 +16,6 @@ user_groups:
 ---
 We are recruiting a **Senior Researcher in RNA Biology** at the Department of Biology, Lund University, Sweden.
 
-[View the full job ad and apply here](https://lu.varbi.com/what:job/jobID:934299/)
+**Apply by 27 May 2026.**
+
+[View full job ad and apply here](https://lu.varbi.com/what:job/jobID:934299/)
