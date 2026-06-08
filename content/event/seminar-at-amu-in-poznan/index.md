@@ -14,8 +14,8 @@ address:
 summary: "A seminar held at Adam Mickiewicz University in Poznań."
 abstract: "Invited seminar, host Prof. Artur Jarmolowski, to share our progress on elucidating the rules and roles of the plant non-coding genome."
 
-date: "2026-06-10T10:00:00Z"
-date_end: "2026-06-10T11:00:00Z"
+date: "2026-06-09T10:00:00Z"
+date_end: "2026-06-09T11:00:00Z"
 all_day: false
 
 featured: false
