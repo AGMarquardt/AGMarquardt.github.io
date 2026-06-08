@@ -14,8 +14,8 @@ address:
 summary: "A seminar held at Adam Mickiewicz University in Poznań."
 abstract: "Add a longer description of the seminar here."
 
-date: "2026-10-01T10:00:00Z"
-date_end: "2026-10-01T12:00:00Z"
+date: "2026-06-10T12:45:00Z"
+date_end: "2026-06-10T13:45:00Z"
 all_day: false
 
 featured: false
