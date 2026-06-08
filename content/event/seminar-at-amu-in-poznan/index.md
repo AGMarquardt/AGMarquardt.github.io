@@ -2,7 +2,7 @@
 title: "Seminar at AMU in Poznań"
 
 event: "Seminar at Adam Mickiewicz University"
-event_url: [https://amu.edu.pl](https://ibmib.web.amu.edu.pl/2026/06/03/sebastian-marquardt-languages-of-the-non-coding-genome/)
+event_url: "https://ibmib.web.amu.edu.pl/2026/06/03/sebastian-marquardt-languages-of-the-non-coding-genome/"
 
 location: "Adam Mickiewicz University, Poznań, Poland"
 address:
