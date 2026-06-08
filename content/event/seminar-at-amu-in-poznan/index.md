@@ -32,4 +32,4 @@ url_video: ""
 publishDate: "2026-06-08T00:00:00Z"
 ---
 
-ALecture in Collegium Biologicum (Aula im. J. Paczoskiego).
+Lecture in Collegium Biologicum (Aula im. J. Paczoskiego).
