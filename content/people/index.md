@@ -8,6 +8,7 @@ sections:
       title: Meet the Team
       user_groups:
           - Principal Investigator
+          - Filled Positions
           - Senior Researchers
           - Postdocs
           - PhD Students
