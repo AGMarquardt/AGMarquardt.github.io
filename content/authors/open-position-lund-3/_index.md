@@ -1,19 +1,13 @@
 ---
-title: Open Position PhD (Lund)
-first_name: Open
-last_name: Position3
-role: PhD Student
+title: Filled Position - Senior Researcher 3 (Lund)
+first_name: Filled
+last_name: Position
+role: Senior Researcher in Plant RNA Biology
 organizations:
   - name: Lund University
     url: 'https://www.biology.lu.se/'
-bio: We are recruiting a PhD Student at the Department of Biology, Lund University, Sweden.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:andreas_sebastian.marquardt@biol.lu.se'
+bio: This Senior Researcher in Plant RNA Biology position at Lund University has been filled.
 user_groups:
-  - Open Positions
+  - Filled Positions
 ---
-We are recruiting a **PhD Student** at the Department of Biology, Lund University, Sweden.
-
-A full job ad will be posted soon. Interested candidates are encouraged to get in touch directly.
+This position — **Senior Researcher in Plant RNA Biology** at the Department of Biology, Lund University — has been filled.
